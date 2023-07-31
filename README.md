@@ -1,5 +1,6 @@
 # Handcricket
-Handcricket game using Python language with Playsound library
+Handcricket game using Python language with Playsound library.
+To download the playable file, visit the 'File' branch.
 The game of hand-cricket is like normal cricket. In this program, you are playing against the computer. The steps are being simplified for easy understanding -
 
     1) You need to select the no of wickets you want to have for the game. It can range from 1 to 10.
