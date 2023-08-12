@@ -1,0 +1,64 @@
+
+--------------SUMMARY--------------
+The game was of 5 wicket(s)
+Computer batted in the first innings.
+Runs scored = 111/5
+Fall of wickets in the 1st innings: [28, 32, 41, 43, 50, 54, 88, 98, 106, 111]
+User batted in the second innings.
+Runs scored = 117/5
+Fall of wickets in the 2nd innings: [11, 17, 55, 82, 99]
+User won by 5 wicket(s)!
+--------------------------------------------------GAME OVER!!!!--------------------------------------------------
+--------------SUMMARY--------------
+The game was of 2 wicket(s)
+User batted in the first innings.
+Runs scored = 69/0
+Fall of wickets in the 1st innings: [35, 69]
+Computer batted in the second innings.
+Runs scored = 50/2
+Fall of wickets in the 2nd innings: [32, 50]
+User won by 19 run(s)!
+--------------------------------------------------GAME OVER!!!!--------------------------------------------------
+--------------SUMMARY--------------
+The game was of 1 wicket(s)
+Computer batted in the first innings.
+Runs scored = 9/0
+Fall of wickets in the 1st innings: [9]
+User batted in the second innings.
+Runs scored = 3/1
+Fall of wickets in the 2nd innings: [3]
+Computer won by 6 run(s)!
+--------------------------------------------------GAME OVER!!!!--------------------------------------------------
+
+--------------SUMMARY--------------
+The game was of 1 wicket(s)
+User batted in the first innings.
+Runs scored = 31/2
+Fall of wickets in the 1st innings: [0, 0, 31]
+Computer batted in the second innings.
+Runs scored = 33/1
+Fall of wickets in the 2nd innings: [30]
+Computer won by 2 wicket(s)!
+--------------------------------------------------GAME OVER!!!!--------------------------------------------------
+--------------SUMMARY--------------
+Current Date and Time is:2023-08-01 19:06:03.249994
+The game was of 1 wicket(s)
+Computer batted in the first innings.
+Runs scored = 1/1
+Fall of wickets in the 1st innings: [1]
+User batted in the second innings.
+Runs scored = 3/0
+Fall of wickets in the 2nd innings: []
+User won by 1 wicket(s)!
+--------------------------------------------------GAME OVER!!!!--------------------------------------------------
+--------------SUMMARY--------------
+Current Date and Time is:2023-08-12 10:56:05.187799
+The game was of 1 wicket(s)
+Computer batted in the first innings.
+Runs scored = 6/1
+Fall of wickets in the 1st innings: [6]
+User batted in the second innings.
+Runs scored = 8/0
+Fall of wickets in the 2nd innings: []
+User won by 1 wicket(s)!
+--------------------------------------------------GAME OVER!!!!--------------------------------------------------
